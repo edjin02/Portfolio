@@ -65,7 +65,7 @@ const HeroSection = () => {
             <div className="bg-gradient-to-r from-primary-900 to-secondary-900 rounded-full h-full w-full z-0 blur-lg absolute top-0 left-0 transform -translate-x-1 -translate-y-1"></div>
             <div className="rounded-full overflow-hidden bg-[#181818] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative">
                 <Image
-                    src="/images/toga.jpg"
+                    src="/images/toga.JPG"
                     alt="profile image"
                     className="object-cover w-full h-full"
                     layout="fill"
